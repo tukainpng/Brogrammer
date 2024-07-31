@@ -16,8 +16,6 @@
   --bright-blue:          #1081D6;
   --bright-purple:        #5350B9;
   --bright-cyan:          #0F7DDB;
-
-  font-family: sans;
 }
 
 * {
@@ -28,6 +26,10 @@
 
 *::-webkit-scrollbar {
   display: none;
+}
+
+html {
+  font-family: Sans-serif;
 }
 
 body {
